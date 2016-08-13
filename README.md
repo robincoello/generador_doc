@@ -2,7 +2,7 @@
 Simple generador de documentos apartir de un documento plano
 
 # Requiere
-*Latino
+*Latino http://lenguaje-latino.org/ 
 
 Uso
 
