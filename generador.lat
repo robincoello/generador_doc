@@ -6,4 +6,4 @@ si(empieza_con(frase,'#'))
     texto = '<h1>' . frase . '</h1>'
 fin
 
-escribir_archivo('doc.php',texto)
+escribir_archivo('doc.html',texto)
