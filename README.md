@@ -6,7 +6,7 @@ Simple generador de documentos apartir de un documento plano
 
 Uso
 
-en la consola te ubicas en la raiz del proyecto y ejecutas asi:
+en la consola te ubicas en la raíz del proyecto y ejecutas así:
 
 ```
 latino generador.lat
